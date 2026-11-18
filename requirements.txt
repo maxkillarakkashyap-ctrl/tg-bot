@@ -1,0 +1,6 @@
+# Required: Telegram bot framework
+python-telegram-bot
+
+# Optional: Telegram voice-call streaming support
+pyrogram
+py-tgcalls
